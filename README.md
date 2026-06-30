@@ -272,7 +272,7 @@ MIT License - See LICENSE file for details
 
 ## 👨‍💻 Author
 
-**Aditya Veer**
+**Adityaveer Singh Chauhan**
 - GitHub: [@veersc2007](https://github.com/veersc2007)
 - Docker Hub: [@veersc2007](https://hub.docker.com/u/veersc2007)
 
