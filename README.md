@@ -270,6 +270,19 @@ All tests must pass and code style must be checked.
 
 MIT License - See LICENSE file for details
 
+## 📝 Limitations
+
+1. Hold many currently. Admin permissions need to be studied once.
+2. Login details need to be updated after the page resfreshes.
+3. The API opened using Docker environment is not editable
+4. Backend-only application; requires a separate frontend for end users.
+5. Requires Docker for the recommended deployment workflow.
+6. Supports only JWT-based authentication; advanced identity providers and MFA are not included.
+7. Does not currently implement API rate limiting, distributed caching, or horizontal scaling.
+8. Designed primarily for small to medium deployments rather than high-availability enterprise environments.
+9. Cloud deployment, monitoring, backup, and disaster recovery require additional production configuration.
+10. Notification and analytics capabilities are limited to the implemented scope and can be extended in future versions.
+
 ## 👨‍💻 Author
 
 **Adityaveer Singh Chauhan**
